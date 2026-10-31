@@ -2,8 +2,9 @@
 
 Power BI, Tableau, SQL and Excel projects by **Anjali Mishra**, Data Analyst (Power BI & Marketing Reporting).
 
-🌐 Portfolio: https://mishra-anjali-22.github.io
-💼 LinkedIn: https://linkedin.com/in/anjali-mishra-44820b1a8
+- 🌐 Portfolio: https://mishra-anjali-22.github.io
+- 💼 LinkedIn: https://www.linkedin.com/in/anjali-mishra-44820b1a8/
+- 🐙 GitHub: https://github.com/Mishra-Anjali-22
 
 ## Projects
 
